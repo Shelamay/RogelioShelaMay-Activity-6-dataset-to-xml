@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<urgentCareFacilities>
+
+	<careCenter>
+		<center_id> 10193191 </center_id>
+		<name> FAIRBANKS </name>
+		<telephone> 907-452-2178 </telephone>
+		<address>1867 AIRPORT WAY </address>
+		<city>FAIRBANKS</city>
+		<state> AK </state>
+		<zip> 99701 </zip>
+		<zipp4> 4056 </zipp4>
+		<county>FAIRBANKS NORTH STAR </county>
+		<fips>2090</fips>
+
+	</careCenter>
+
+	<careCenter>
+		<center_id> 10421243 </center_id>
+		<name> 1ST CARE </name>
+		<telephone> 907-458-2682 </telephone>
+		<address> 1101 NOBLE STREET </address>
+		<city> FAIRBANKS </city>
+		<state> AK </state>
+		<zip> 99701 </zip>
+		<zipp4>4924  </zipp4>
+		<county>FAIRBANKS NORTH STAR</county>
+		<fips>2090</fips>
+
+	</careCenter>
+	<careCenter>
+		<center_id>10844602 </center_id>
+		<name> ROCKWOOD - CHENEY MEDICAL CENTER </name>
+		<telephone>509-235-6151 </telephone>
+		<address> 1101 NOBLE STREET </address>
+		<city>CHENEY</city>
+		<state> WA </state>
+		<zip>  99004 </zip>
+		<zipp4> 2220 </zipp4>
+		<county>SPOKANE</county>
+		<fips>53063</fips>
+
+	</careCenter>
+	<careCenter>
+		<center_id>10425848 </center_id>
+		<name>VANCOUVER CLINIC - SALMON CREEK SAME DAY SERVICES </name>
+		<telephone> 360-397-3970 </telephone>
+		<address> 2525 NORTHEAST 139TH STREET </address>
+		<city>VANCOUVER</city>
+		<state> WA</state>
+		<zip>  98686</zip>
+		<zipp4> 2719 </zipp4>
+		<county>CLARK</county>
+		<fips>53011</fips>
+
+	</careCenter>
+	<careCenter>
+		<center_id> 11524595 </center_id>
+		<name> BLOOMINGTON MEDICAL </name>
+		<telephone> 435-656-8282 </telephone>
+		<address> 144 WEST BRIGHAM ROAD </address>
+		<city> SAINT GEORGE </city>
+		<state> UT</state>
+		<zip> 84790 </zip>
+		<zipp4>7472</zipp4>
+		<county>WASHINGTON</county>
+		<fips>49053</fips>
+
+	</careCenter>
+	<careCenter>
+		<center_id> 10192477</center_id>
+		<name> PRESIDIO OF MONTEREY ARMY HEALTH CLINIC-DOD </name>
+		<telephone>831-242-5672 </telephone>
+		<address> 473 CABRILLO STREET </address>
+		<city>MONTEREY</city>
+		<state> CA </state>
+		<zip> 93944 </zip>
+		<zipp4>3201</zipp4>
+		<county>MONTEREY</county>
+		<fips>6053</fips>
+
+	</careCenter>
+	<careCenter>
+		<center_id>10993703</center_id>
+		<name> FAMILY CARE URGENT CARE </name>
+		<telephone>  760-251-3401</telephone>
+		<address> 12560 PALM DRIVE </address>
+		<city>DESERT HOT SPRINGS </city>
+		<state> CA </state>
+		<zip> 92240 </zip>
+		<zipp4> 4559 </zipp4>
+		<county>RIVERSIDE</county>
+		<fips>6065</fips>
+
+	</careCenter>
+	<careCenter>
+		<center_id>10198749 </center_id>
+		<name>ADVANTAGE URGENT CARE CENTER </name>
+		<telephone> 602-530-6189 </telephone>
+		<address> 5410 WEST THUNDERBIRD ROAD </address>
+		<city>GLENDALE </city>
+		<state> AZ </state>
+		<zip>  85308 </zip>
+		<zipp4> 8580 </zipp4>
+		<county>GLENDALE </county>
+		<fips>4013</fips>
+
+	</careCenter>
+	<careCenter>
+		<center_id> 10198758 </center_id>
+		<name> WEST VALLEY URGENT CARE </name>
+		<telephone> 623-334-8670 </telephone>
+		<address> 17218 NORTH 72ND DRIVE </address>
+		<city>GLENDALE</city>
+		<state> AZ </state>
+		<zip> 85308 </zip>
+		<zipp4> 8580 </zipp4>
+		<county>MARICOPA</county>
+		<fips>4013</fips>
+
+	</careCenter>
+	<careCenter>
+		<center_id> 10421975 </center_id>
+		<name> UNIVERSITY MEDICAL CENTER QUICK CARE - LAUGHLIN </name>
+		<telephone> 702-298-3364  </telephone>
+		<address> 150 BRUCE WOODBURY DRIVE </address>
+		<city>LAUGHLIN</city>
+		<state>NV</state>
+		<zip> 89029 </zip>
+		<zipp4>1805</zipp4>
+		<county>CLARK</county>
+		<fips>32003</fips>
+
+	</careCenter>
+	<careCenter>
+		<center_id>10844245</center_id>
+		<name>SENDAS NORTHWEST URGENT CARE </name>
+		<telephone> 661-587-2500 </telephone>
+		<address>3409 CALLOWAY DRIVE </address>
+		<city>BAKERSFIELD</city>
+		<state> CA </state>
+		<zip>93312</zip>
+		<zipp4> 2517 </zipp4>
+		<county>KERN</county>
+		<fips>6029</fips>
+
+	</careCenter>
+	<careCenter>
+		<center_id> 10198860 </center_id>
+		<name> MEDICAL DIRECT URGENT CARE </name>
+		<telephone> 775-267-6394 </telephone>
+		<address> 961 MICA DRIVE </address>
+		<city>961 MICA DRIVE</city>
+		<state> NV </state>
+		<zip> 89705 </zip>
+		<zipp4>  7100 </zipp4>
+		<county>DOUGLAS</county>
+		<fips>32005</fips>
+
+	</careCenter>
+		
+</urgentCareFacilities>
+
+
