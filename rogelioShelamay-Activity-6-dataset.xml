@@ -1,8 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
+<!DOCTYPE urgentCareFacilities [ 
+		<!ELEMENT urgentCareFacilities (careCenter)>
+		<!ELEMENT careCenter (center_id, name, telephone, address, city, state, zip, zipp4, county, fips)>
+
+		 <!ELEMENT careCenter (#PCDATA)>
+		 <!ELEMENT center_id (#PCDATA)> 
+		 <!ELEMENT name (#PCDATA)>
+		 <!ELEMENT telephone (#PCDATA)>
+		 <!ELEMENT address (#PCDATA)> 
+		 <!ELEMENT city (#PCDATA)> 
+		 <!ELEMENT state (#PCDATA)> 
+		 <!ELEMENT zip (#PCDATA)>
+		 <!ELEMENT zipp4 (#PCDATA)>
+		 <!ELEMENT county (#PCDATA)>
+		 <!ELEMENT fips (#PCDATA)>
+
+		 <!ATTLIST careCenter location CDATA #REQUIRED>
+		]>
+
+
+
 <urgentCareFacilities>
 
-	<careCenter>
+	<careCenter location="C_1">
 		<center_id> 10193191 </center_id>
 		<name> FAIRBANKS </name>
 		<telephone> 907-452-2178 </telephone>
@@ -16,7 +37,7 @@
 
 	</careCenter>
 
-	<careCenter>
+	<careCenter location="C_2">
 		<center_id> 10421243 </center_id>
 		<name> 1ST CARE </name>
 		<telephone> 907-458-2682 </telephone>
@@ -28,8 +49,9 @@
 		<county>FAIRBANKS NORTH STAR</county>
 		<fips>2090</fips>
 
-	</careCenter>
-	<careCenter>
+	</careCenter >
+
+	<careCenter location="C_3">
 		<center_id>10844602 </center_id>
 		<name> ROCKWOOD - CHENEY MEDICAL CENTER </name>
 		<telephone>509-235-6151 </telephone>
@@ -41,8 +63,9 @@
 		<county>SPOKANE</county>
 		<fips>53063</fips>
 
-	</careCenter>
-	<careCenter>
+	</careCenter >
+
+	<careCenter location="C_4">
 		<center_id>10425848 </center_id>
 		<name>VANCOUVER CLINIC - SALMON CREEK SAME DAY SERVICES </name>
 		<telephone> 360-397-3970 </telephone>
@@ -55,7 +78,8 @@
 		<fips>53011</fips>
 
 	</careCenter>
-	<careCenter>
+
+	<careCenter location="C_5">
 		<center_id> 11524595 </center_id>
 		<name> BLOOMINGTON MEDICAL </name>
 		<telephone> 435-656-8282 </telephone>
@@ -68,7 +92,8 @@
 		<fips>49053</fips>
 
 	</careCenter>
-	<careCenter>
+
+	<careCenter location="C_6">
 		<center_id> 10192477</center_id>
 		<name> PRESIDIO OF MONTEREY ARMY HEALTH CLINIC-DOD </name>
 		<telephone>831-242-5672 </telephone>
@@ -80,8 +105,9 @@
 		<county>MONTEREY</county>
 		<fips>6053</fips>
 
-	</careCenter>
-	<careCenter>
+	</careCenter >
+
+	<careCenter location="C_7">
 		<center_id>10993703</center_id>
 		<name> FAMILY CARE URGENT CARE </name>
 		<telephone>  760-251-3401</telephone>
@@ -94,7 +120,8 @@
 		<fips>6065</fips>
 
 	</careCenter>
-	<careCenter>
+
+	<careCenter location="C_8">
 		<center_id>10198749 </center_id>
 		<name>ADVANTAGE URGENT CARE CENTER </name>
 		<telephone> 602-530-6189 </telephone>
@@ -107,7 +134,8 @@
 		<fips>4013</fips>
 
 	</careCenter>
-	<careCenter>
+
+	<careCenter location="C_9">
 		<center_id> 10198758 </center_id>
 		<name> WEST VALLEY URGENT CARE </name>
 		<telephone> 623-334-8670 </telephone>
@@ -120,7 +148,8 @@
 		<fips>4013</fips>
 
 	</careCenter>
-	<careCenter>
+
+	<careCenter location="C_10">
 		<center_id> 10421975 </center_id>
 		<name> UNIVERSITY MEDICAL CENTER QUICK CARE - LAUGHLIN </name>
 		<telephone> 702-298-3364  </telephone>
@@ -133,33 +162,7 @@
 		<fips>32003</fips>
 
 	</careCenter>
-	<careCenter>
-		<center_id>10844245</center_id>
-		<name>SENDAS NORTHWEST URGENT CARE </name>
-		<telephone> 661-587-2500 </telephone>
-		<address>3409 CALLOWAY DRIVE </address>
-		<city>BAKERSFIELD</city>
-		<state> CA </state>
-		<zip>93312</zip>
-		<zipp4> 2517 </zipp4>
-		<county>KERN</county>
-		<fips>6029</fips>
 
-	</careCenter>
-	<careCenter>
-		<center_id> 10198860 </center_id>
-		<name> MEDICAL DIRECT URGENT CARE </name>
-		<telephone> 775-267-6394 </telephone>
-		<address> 961 MICA DRIVE </address>
-		<city>961 MICA DRIVE</city>
-		<state> NV </state>
-		<zip> 89705 </zip>
-		<zipp4>  7100 </zipp4>
-		<county>DOUGLAS</county>
-		<fips>32005</fips>
-
-	</careCenter>
 		
 </urgentCareFacilities>
-
 
